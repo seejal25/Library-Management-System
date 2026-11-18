@@ -1,0 +1,17 @@
+# React
+library-frontend/node_modules/
+library-frontend/build/
+library-frontend/dist/
+
+# Java
+library/target/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
